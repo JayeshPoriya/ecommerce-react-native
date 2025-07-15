@@ -11,7 +11,6 @@ A clean and modern **React Native Ecommerce** mobile app using **Redux Toolkit**
 -  Product details screen with description, rating, and image
 -  Add to cart from list and detail screen
 -  "Added" state for cart buttons
--  Cart screen with quantity control (+ / -)
 -  Remove items from cart
 -  Cart total calculation
 -  Global cart count badge in the header
